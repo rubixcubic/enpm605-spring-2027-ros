@@ -1,0 +1,8 @@
+# Request
+string task        # What to do
+uint32 minutes     # How long
+---
+# Response
+bool accepted      # True: done
+uint8 battery_pct  # Level after
+string message     # In words

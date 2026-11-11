@@ -1,0 +1,8 @@
+# Goal: meters to drive
+float64 distance_m
+---
+# Result: meters driven
+float64 distance_driven_m
+---
+# Feedback: meters left
+float64 distance_remaining_m

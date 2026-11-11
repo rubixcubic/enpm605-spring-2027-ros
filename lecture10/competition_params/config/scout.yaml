@@ -1,0 +1,5 @@
+# Parameters of the node named scout, read when it starts
+scout:
+  ros__parameters:
+    max_speed_mps: 1.5   # Lecture 7's is 2.0; 1.5 is chosen
+    robot_name: Scout_2

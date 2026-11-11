@@ -1,0 +1,6 @@
+# Python bytecode, written when a node runs from a --symlink-install build
+__pycache__/
+# colcon output, if you build inside this folder by mistake
+build/
+install/
+log/
